@@ -1,1 +1,3 @@
-###RAG System With GO
+### RAG System With GO
+
+Implementing a working RAG system with GO.
